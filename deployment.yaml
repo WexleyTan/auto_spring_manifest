@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: springboot-container
-          image: neathtan/spring_adv:33
+          image: neathtan/spring_adv:34
           ports:
             - containerPort: 9090
